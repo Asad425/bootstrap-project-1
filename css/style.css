@@ -8,3 +8,8 @@
     background-color:white;
   
 }
+ 
+.special-effect img:hover{
+    transform: scale(1.5,1.5);
+    transition: transform 2s ease-in-out;
+}
